@@ -5,7 +5,7 @@ subtitle:
 gh-repo: trevin-j/trevin-j.github.io
 gh-badge: [star, fork, follow]
 tags: []
-comments: false
+comments: true
 author: Trevin Jones
 readtime: true
 ---
