@@ -23,11 +23,10 @@ author: Trevin Jones
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "/2024-03-04-welcome-to-my-site"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Ethan Turing - AI Writer: "http://ethanturing.trevinjones.com"
+  Author's home: "https://trevinjones.com"
 
 ################
 # --- Logo --- #
