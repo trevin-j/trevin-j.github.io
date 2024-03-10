@@ -5,8 +5,9 @@ subtitle:
 gh-repo: trevin-j/trevin-j.github.io
 gh-badge: [star, fork, follow]
 tags: []
-comments: false
+comments: true
 author: Trevin Jones
+readtime: true
 ---
 
 Hi! My name is Trevin Jones. I am currently a computer science major at Brigham Young University-Idaho. I love developing software and scripts. I've recently found myself exploring everything to do with generative AI. One of my personal projects with AI is live at [ethanturing.trevinjones.com](ethanturing.trevinjones.com)! It's a simple sort of proof of concept. It's a totally automated script to use GPT-3.5 turbo to write interesting articles on tech. It doesn't currently pull information from the web, because I don't want to mess with any possible copyright issues. I also have been playing around with stable-diffusion locally on my desktop. I love how Stability AI releases so many models under open source licenses, and I enjoy keeping up to date with their releases.
