@@ -27,3 +27,9 @@ ChatGPT is usually modest enough to back down if you tell it that it is wrong. I
 In all fairness, this was the API version of Gemini, so to my knowledge it couldn't search the internet for these answers like the Gemini app can. I found its tendency to argue with me to be bizarre. It doubled down on what it had decided to be true.
 
 My experimentation with Microsoft Copilot is even more bizarre. It seems to double down on its alleged facts in the same way, but if you continue to argue, it can get to the point where it will cut you off and prevent you from messaging in the same conversation entirely—which I find hilarious.
+
+For these reasons its always important to fact check everything tgey say, even if you're using one that has access to the internet.
+
+## Promot Engineering
+
+Advanced use of Large Language Models reveals their tendency to not want to do ecactly what you want them to do all the time.
