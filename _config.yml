@@ -26,7 +26,7 @@ navbar-links:
   About Me: "/2024-03-04-welcome-to-my-site"
   My Projects:
     - Ethan Turing - AI Writer: "http://ethanturing.trevinjones.com"
-  Medium: "https://medium.com/@tr3vinj"
+  Medium: "https://medium.com/@trevinjones"
   # Author's home: "https://trevinjones.com"
 
 ################
@@ -127,7 +127,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "personal site,ai,software,dev,developer,open source"
+keywords: "personal site,ai,software,dev,developer,open source,2024,artificial intelligence,chatgpt"
 
 ######################################
 # --- Colours / background image --- #
