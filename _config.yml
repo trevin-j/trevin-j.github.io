@@ -202,17 +202,17 @@ gtag: "G-9C0BHQXMYK"
 #fb_comment_id: ""
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
-#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
+commentbox: "5697352325136384-proj" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
-utterances:
-  repository: trevin-j/trevin-j.github.io 
-  issue-term: title   # Mapping between blog posts and GitHub issues
-  theme: github-light # Utterances theme
-  label: utterances-comments # Label that will be assigned to GitHub Issues created by Utterances
+# utterances:
+#   repository: trevin-j/trevin-j.github.io 
+#   issue-term: title   # Mapping between blog posts and GitHub issues
+#   theme: github-light # Utterances theme
+#   label: utterances-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
 # section commented if you aren't using reCaptcha for spam protection. 
