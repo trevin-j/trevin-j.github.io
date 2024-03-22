@@ -4,7 +4,7 @@ title: Completely Renew Your Old Computer With One Simple Upgrade
 subtitle: The one computer upgrade to rule them all
 gh-repo: trevin-j/trevin-j.github.io
 gh-badge: [star, follow]
-tags: []
+tags: [tech, upgrade, hardware, performance, PC]
 comments: true
 readtime: true
 cover-img: /assets/img/ssd-upgrade/pc_hardware.jpg
@@ -57,7 +57,7 @@ Because we'll need to connect the new drive externally, you're going to also nee
 
 During the cloning process, if something goes wrong or you select the wrong option, you could lose all your data. Be safe and back everything up first! I was foolish and skipped this step, but I got lucky not to have anything go wrong. Don't be like me! Back up, back up, back up!
 
-![Starting Clonezilla](assets/img/ssd-upgrade/start-clonezilla.png)
+![Starting Clonezilla](/assets/img/ssd-upgrade/start-clonezilla.png)
 
 ### Cloning the drive
 
