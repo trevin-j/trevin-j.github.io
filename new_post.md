@@ -7,7 +7,7 @@ gh-badge: [star, follow]
 tags: []
 comments: true
 readtime: true
-cover-img: 
+cover-img: /assets/img/ssd-upgrade/pc_hardware.jpg
 ---
 
 I think most of us have had to deal with it—that one HP laptop we've had for a few years that has always taken a few years to load anything on a good day. No matter how many applications you clean off of the computer, or how many times you download free RAM off of the internet (please don't do this), you still can't get anything to run smoothly on your computer.
@@ -33,6 +33,7 @@ An HDD is the traditional storage type which features a spinning disk and uses m
 
 SSDs are a more modern approach to storage. They use transistors to store memory, meaning they don't need any moving parts. SSDs are almost always much faster than traditional hard drives. For this reason, solid state drives have been the recommended storage option for as long as they have been more affordable. Unfortunately, they are still more expensive per unit of storage than HDDs and as a result, your budget laptop from a few years ago probably was fitted with a traditional hard drive. This means slow load times for *everything*.
 
+![An HDD swapped out for an SSD](/assets/img/ssd-upgrade/ssd_upgrade.jpg)
 
 ## How do we fix this bottleneck?
 
@@ -52,8 +53,26 @@ Because my fiancee's laptop is a whopping 2TB, I went with [this drive](https://
 
 Because we'll need to connect the new drive externally, you're going to also need a USB SATA cable or enclosure, such as [this one](https://a.co/d/979yoUg). Make sure the cable you get supplies power to the drive as well as connects to the computer via USB.
 
+### Back up your current drive
+
+During the cloning process, if something goes wrong or you select the wrong option, you could lose all your data. Be safe and back everything up first! I was foolish and skipped this step, but I got lucky not to have anything go wrong. Don't be like me! Back up, back up, back up!
+
+![Starting Clonezilla](assets/img/ssd-upgrade/start-clonezilla.png)
+
 ### Cloning the drive
 
-The next step is the most challenging. We need to use software called [*Clonezilla*](https://clonezilla.org) to completely clone the old drive to the new one. Clonezilla operates as its own OS, running on a USB drive using Debian Linux. It's complicated to set up, but a helpful tutorial can be found on their site [here](https://clonezilla.org/fine-print-live-doc.php?path=./clonezilla-live/doc/03_Disk_to_disk_clone/00-prepare-clonezilla-live.doc#00-prepare-clonezilla-live.doc)
+The next step is the most challenging. I like to use software called [*Clonezilla*](https://clonezilla.org) to completely clone the old drive to the new one. Clonezilla operates as its own OS, running on a USB drive using Debian Linux. It's complicated to set up, but a helpful tutorial can be found on their site [here](https://clonezilla.org/fine-print-live-doc.php?path=./clonezilla-live/doc/03_Disk_to_disk_clone/00-prepare-clonezilla-live.doc#00-prepare-clonezilla-live.doc). Remember, be careful when using Clonezilla, it could completely and permanently delete your data if you do something wrong, so like I already said, back up your PC!
 
+There are other more user-friendly cloning options out there, but Clonezilla is free and open source. That's my favorite kind of software.
 
+### Installing the drive
+
+Finally it's time to put your fancy new piece of hardware inside your computer. Every computer is a little different, so you'll have to find steps to get to the hard drive. After you get the computer open, it's usually as simple as undoing a couple screws, unplugging the old one, and plugging the new SSD in! Put everything back together and boom, your old computer will run better than ever.
+
+### Finishing up
+
+Now you have a computer that loads programs and Windows blazing fast. If you want to further improve your performance, some additional things you could do are remove some startup problems and remove old applications and/or data.
+
+---
+
+While this article isn't meant to be a full in-depth tutorial, I hope you were able to see that with a little work, you can improve the performance of your old PC by a significant amount.
