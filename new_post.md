@@ -21,13 +21,13 @@ Your computer is made up of many different parts and pieces. You have the mother
 
 A good CPU is able to do billions of small operations every second. The CPU, which stands for central processing unit, is what makes your computer do things. It processes data. A fast processor can make your computer very fast. But, in your old computer, it's likely not the performance bottleneck.
 
-GPUs, also referred to graphics processor unit, or a graphics card, process the pixels that go to your screen. If you like playing games on your computer or you use other 3D software, you want a good GPU. The difference between the structure of a GPU and a CPU is that the GPU has a ton of small cores which are able to process things simultaneously, while a cpu only has a few powerful cores. While a great graphics card could potentially dramatically improve the visuals of your games, it's also probably not the issue.
+GPUs, also referred to as graphics processor unit, or a graphics card, process the pixels that go to your screen. If you like playing games on your computer or you use other 3D software, you want a good GPU. The difference between the structure of a GPU and a CPU is that the GPU has a ton of small cores which are able to process things simultaneously, while a cpu only has a few powerful cores. While a great graphics card could potentially dramatically improve the visuals of your games, it's also probably not the issue.
 
 Random access memory (RAM) is where programs on your computer get loaded into. The memory can be sent to and from the CPU super quickly, far faster than even the fastest of storage options today. High RAM capacity means you can have more application information loaded at a single time. Dedicated graphics cards have their own kind of RAM—VRAM, or video-RAM. VRAM is usually designed right into the GPU, so it's not something you can just upgrade when you feel like it.
 
 The motherboard is the electronics board that connects all of these individual things together with different kinds of electrical interfaces. The type of motherboard you have is likely dependent upon the type of CPU you have, as different processors have different socket types and motherboard types that they support.
 
-Finally, we get to where the bottleneck most likely it: storage. But wait... my computer tells me that I still have hundreds of gigabytes to spare—how would my storage be the bottleneck? Well, there are two main different kinds of storage that computers use. There is the HDD (hard disk drive) and the SSD (solid state drive).
+Finally, we get to where the bottleneck most likely is: storage. But wait... my computer tells me that I still have hundreds of gigabytes to spare—how would my storage be the bottleneck? Well, there are two main different kinds of storage that computers use. There is the HDD (hard disk drive) and the SSD (solid state drive).
 
 An HDD is the traditional storage type which features a spinning disk and uses magnetic cells to represent the "ones and zeros." It uses a magnetic arm to read and write data across the disk. These devices can be very slow to read and write data by modern standards, but they are usually much cheaper per unit of storage.
 
@@ -37,7 +37,7 @@ SSDs are a more modern approach to storage. They use transistors to store memory
 
 ## How do we fix this bottleneck?
 
-First of all, HDDs are still great. They can store a ton of data for relatively cheap. However, it's completely unwise to boot a modern OS such as Windows 10/11 off of a hard drive. Many modern desktops are set up with an SSD for the main storage and OS, with an HDD as additional storage for media and used applications that are used less frequently.
+First of all, HDDs are still great. They can store a ton of data for relatively cheap. However, it's completely unwise to boot a modern OS such as Windows 10/11 off of a hard disk drive. Many modern desktops are set up with an SSD for the main storage and OS, with an HDD as additional storage for media and used applications that are used less frequently.
 
 But since your old computer is likely running its operating system right off of its ancient spinning hard drive, replacing that drive with an SSD could decrease your computer's loading times by over 500%, depending on the current HDD and the SSD you are replacing it with. 
 
@@ -71,7 +71,7 @@ Finally it's time to put your fancy new piece of hardware inside your computer. 
 
 ### Finishing up
 
-Now you have a computer that loads programs and Windows blazing fast. If you want to further improve your performance, some additional things you could do are remove some startup problems and remove old applications and/or data.
+Now you have a computer that loads programs and Windows blazing fast. If you want to further improve your performance, some additional things you could do are remove some startup programs and remove old applications and/or data.
 
 ---
 
