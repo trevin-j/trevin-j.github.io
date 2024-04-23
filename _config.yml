@@ -13,7 +13,7 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 ############################
 
 # Name of website
-title: Trevin Jones
+title: "Trevin Jones | Personal Site"
 
 # Your name to show in the footer
 author: Trevin Jones
@@ -26,6 +26,7 @@ navbar-links:
   About Me: "/2024-03-04-welcome-to-my-site"
   My Projects:
     - Ethan Turing - AI Writer: "http://ethanturing.trevinjones.com"
+    - QuickRemember: "https://trevinjones.com/quickremember/"
   Medium: "https://medium.com/@trevinjones"
   # Author's home: "https://trevinjones.com"
 
