@@ -27,7 +27,7 @@ MacOS is often praised for its design and user experience, but you are completel
 
 You may disagree with these points, or maybe they aren't a big deal to you. Whether you agree or not, it's still worth looking into Linux. For a desktop experience, Linux has whatever you need. If you are an enthusiast and tinkerer, there is Arch Linux. If you aren't super tech savvy, there is Linux Mint. If you are a gamer, steam has a Linux client and with the amazing improvements to Proton, you can play a large amount of windows games on Linux. If you love cutting-edge technology but still need a stable desktop experience, check out Fedora Linux, which is what I have been using for the last few months and I absolutely love it.
 
-![Linux Mint](assets/img/switch-to-linux/lm-logo.png)
+![Linux Mint](/assets/img/switch-to-linux/lm-logo.png)
 
 # My recommendation for new users
 
@@ -35,7 +35,7 @@ If you've spent any time looking into what Linux distribution to use as a new us
 
 Linux Mint, on the other hand, is a great distribution for new users. It is based on Ubuntu, so you get the same great package manager and familiarty, but by design, it ships without snaps at all. Linux Mint follows the philosophy of open source by choice, and includes only open source software in its installation, but doesn't restrict users from installing proprietary software if they choose to. Linux Mint is also known for its stability and ease of transition from other popular operating systems. I would recommend Linux Mint to anyone looking to make the switch to Linux.
 
-![LM Desktop with LibreOffice](assets/img/switch-to-linux/office-apps-screenshot.png)
+![LM Desktop with LibreOffice](/assets/img/switch-to-linux/office-apps-screenshot.png)
 
 # Making the switch
 One huge reason why some are very hesitant to switch to Linux is its lack of support for popular software such as Microsoft office, Adobe products, etc. The good news is that there are alternatives to most of these proprietary applications. For example, LibreOffice is a great open source alternative to Microsoft Office. It even supports editing and saving Office formats such as .docx, xlsx, and pptx. If you are looking for alternatives to Adobe products, check out GIMP for photo editing, Inkscape for vector graphics, and Krita for digital painting. You can use Kdenlive for video editing, and Audacity for audio editing. Blender, now one of the top 3D modeling and animation software, is also available on Linux and is open source as well.
@@ -46,7 +46,7 @@ If you are a gamer, you may be hesitant to switch to Linux because of the lack o
 
 Since Linux Mint is the best for new Linux users, I'll give a high level overview of how its installed. While I recommend trying Linux in a virtual machine first, you also have the option to boot Linux alongside your existing operating system. This is called dual booting. The installer for Linux Mint is designed to make this process as easy as possible. Don't try to use this as a guide, rather just a simplified overview of the process so you know what to expect. When you are ready to install Linux Mint, follow the official guide on the [Linux Mint website](https://linuxmint.com/).
 
-![Flash drive](assets/img/switch-to-linux/flash-drive.jpg)
+![Flash drive](/assets/img/switch-to-linux/flash-drive.jpg)
 
 ### Prerequisites
 
@@ -86,11 +86,11 @@ Since Linux Mint is the best for new Linux users, I'll give a high level overvie
 
 2. Linux Mint comes with software called Timeshift, which is a system restore utility. I would recommend setting this up as soon as possible. Timeshift will take snapshots of your system, so if something goes wrong, you can restore your system to a previous state.
 
-![Timeshift app](assets/img/switch-to-linux/timeshift-screenshot.png)
+![Timeshift app](/assets/img/switch-to-linux/timeshift-screenshot.png)
 
 3. LM also comes with a firewall application that you can set up. I would recommend setting this up as well.
 
-![Firewall app](assets/img/switch-to-linux/firewall-screenshot.png)
+![Firewall app](/assets/img/switch-to-linux/firewall-screenshot.png)
 
 4. Most other software you would want can be found in the software manager. If you are going to become a more advanced user, you may want to learn how to use the command line, but Linux Mint is designed to be user-friendly and you can do most things through the GUI.
 
